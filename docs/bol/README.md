@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# BOL
+# BOL WIKI
 
 {% include list.liquid %}
